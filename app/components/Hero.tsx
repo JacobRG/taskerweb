@@ -97,7 +97,7 @@ export default function Hero() {
         </Dialog>
       </header>
 
-      <div className="relative isolate pt-14">
+      <div className="relative isolate pt-14 max-sm:pt-0">
         <svg
           className="absolute inset-0 -z-10 h-full w-full stroke-gray-200 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
           aria-hidden="true"
