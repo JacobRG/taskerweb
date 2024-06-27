@@ -56,7 +56,7 @@ export default function Hero() {
               <a href="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">Your Company</span>
                 <Image
-                  className="h-8 w-auto"
+                  className="h-8 w-auto rounded-md"
                   src={AppIcon}
                   alt=""
                 />
