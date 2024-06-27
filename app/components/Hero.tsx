@@ -55,7 +55,7 @@ export default function Hero() {
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">Your Company</span>
-                <img
+                <Image
                   className="h-8 w-auto"
                   src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
                   alt=""
@@ -139,7 +139,7 @@ export default function Hero() {
               Tasker - Task Management App
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Tasker is a task-keeping app designed to enhance productivity and simplify daily organization. At its core, Tasker is about bringing clarity and focus to your daily routine. Whether you're juggling work projects, personal goals, or household tasks, Tasker offers an intuitive and user-friendly platform to manage it all.
+              Tasker is a task-keeping app designed to enhance productivity and simplify daily organization. At its core, Tasker is about bringing clarity and focus to your daily routine. Whether you&apos;re juggling work projects, personal goals, or household tasks, Tasker offers an intuitive and user-friendly platform to manage it all.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
               <a
